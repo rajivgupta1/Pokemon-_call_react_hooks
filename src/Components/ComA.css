@@ -1,0 +1,13 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.select{
+    display: flex;
+    text-align: center;
+    margin-left: 200px;
+    padding-left: 200px;
+}
